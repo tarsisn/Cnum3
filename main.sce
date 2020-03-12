@@ -7,5 +7,6 @@ pp = P*np;
 C = pp + comb;
 
 
+
 // salvar o valor das variáveis em arquivo
 save("output.dat", "C");
